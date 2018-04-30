@@ -15,6 +15,7 @@ Search, Browse & Upload Camera Samples of Mobile Phones
 * Add firebase cloud function to remove GPS exif data upon photo upload
 * Detect and blur offensive images that get uploaded
 * Optimize **Feed**
+* Optimize the production build by adding code splitting
 
 ## Getting Started
 
@@ -66,7 +67,7 @@ npm start (or) yarn start
 
 ## Contributing
 
-Please read [CONTRIBUTING.md](https://github.com/s-kris/phonesamples/blob/master/CONTRIBUTING.md) for details on our code of conduct, and the process for submitting pull requests to us.
+Please read [CONTRIBUTING.md](CONTRIBUTING.md) for details on our code of conduct, and the process for submitting pull requests to us.
 
 ## Contributors
 
@@ -74,7 +75,7 @@ Please read [CONTRIBUTING.md](https://github.com/s-kris/phonesamples/blob/master
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
+This project is licensed under the MIT License - see the [LICENSE.md](LICENSE) file for details
 
 ## Acknowledgments
 
