@@ -1,5 +1,6 @@
 import React from 'react';
 import { View, Text, StyleSheet } from 'react-primitives';
+import { Link } from 'react-router-dom';
 
 import { primaryColor } from './../config/Colors';
 
@@ -24,8 +25,13 @@ class Footer extends React.Component {
     return (
       <View style={styles.container}>
         <View style={styles.hr} />
-        <View>
+        <View style={{ alignItems: 'center' }}>
           <Text style={styles.footerText}>Open-Source Project. Crowdsourced Samples.</Text>
+          <Text style={styles.footerText}>
+            <Link to="https://github.com/s-kris/phonesamples" target="_blank">
+              Github
+            </Link>
+          </Text>
         </View>
       </View>
     );
