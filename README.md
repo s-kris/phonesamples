@@ -10,6 +10,12 @@ Search, Browse & Upload Camera Samples of Mobile Phones
 * Instead of HTML elements, [React Primitives](https://github.com/lelandrichardson/react-primitives) were used mostly
 * This is my first open-source project, excuse any mistakes
 
+##Todo
+
+* Add firebase cloud function to remove GPS exif data upon photo upload
+* Detect and blur offensive images that get uploaded
+* Optimize **Feed**
+
 ## Getting Started
 
 These instructions will get you a copy of the project up and running on your local machine for development and testing purposes.
