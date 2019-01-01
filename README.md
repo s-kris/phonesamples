@@ -2,7 +2,7 @@
 
 Search, Browse & Upload Camera Samples of Mobile Phones
 
-[LIVE VERSION](http://phonesamples.org)
+[Demo](https://phone-samples-5d569.firebaseapp.com)
 
 ### notes
 
